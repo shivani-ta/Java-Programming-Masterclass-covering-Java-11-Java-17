@@ -41,6 +41,9 @@ public class Main {
 
         long myTOtal2 =(myMaxLongValue/2);
 
+       
+
+
 
 
     }
